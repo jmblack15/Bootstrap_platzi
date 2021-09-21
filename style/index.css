@@ -1,0 +1,25 @@
+.text-platzi {
+   color: #97c93e !important;
+}
+
+header img {
+   width: 80px;
+}
+
+.navbar {
+   background-color: #121f3d !important;
+}
+
+footer {
+   background-color: #03091e;
+}
+
+footer ul {
+   text-align: center;
+   list-style: none;
+}
+
+footer a {
+   color          : #FFF;
+   text-decoration: none;
+}
