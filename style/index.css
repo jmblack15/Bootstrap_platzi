@@ -2,12 +2,19 @@
    color: #97c93e !important;
 }
 
+.btn-platzi {
+   background-color: #97c93e !important;
+   color           : #FFF;
+}
+
+.btn-platzi:hover {
+   background-color: #82ad36 !important;
+}
+
 header,
 .navbar {
    background-color: #25235b !important;
 }
-
-
 
 header img {
    width: 80px;
@@ -37,6 +44,21 @@ main .carousel-inner img {
 #carousel .overlay .container,
 #carousel .overlay .container .row {
    height: 100%;
+}
+
+#speakers img {
+   height    : 348px;
+   object-fit: cover;
+}
+
+.time {
+   background-color: #25235be8;
+   color           : #FFF;
+}
+
+.time img {
+   width : 100%;
+   height: 500px;
 }
 
 footer {
